@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1ZA1XSQgvuBNupEeJdjjr3a-t4srHyZcE/view
 - (GitHub)
 https://github.com/levelhoon/bgfx-template-for-new-project
 
-[How to install the template] <- this is easier
+[How to Use the template]
 1. After unzip the "Library Code" folder to the desired path.
 (It doesn't matter if you don't unpack it in the same folder)
 2. Note or remember the path to the Library Code directory.
