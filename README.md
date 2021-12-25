@@ -1,4 +1,5 @@
 # What is it?
+BGFX template for developing in the Visual Studio environment.
 
 BGFX library code:
 - (Google Drive)
@@ -15,8 +16,8 @@ https://github.com/levelhoon/bgfx-template-for-new-project
 1. After unzip the "Library Code" folder to the desired path.
 (It doesn't matter if you don't unpack it in the same folder)
 2. Note or remember the path to the Library Code directory.
-3. You should to modify the environment variable.
-(i did settings to  BGFX_CODE), set the path to the path you noted earlier.
+3. You should to modify the environment variable on BGFX_CODE.
+  (i did settings path at like a image), set the path to the path you noted earlier.
   ![BGFX_CODE](https://media.discordapp.net/attachments/924117396090933269/924396847068483656/unknown.png)
 4. After that, build and run the template project.
 5. You should to change from 64-bit to 32-bit.
