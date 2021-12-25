@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1ZA1XSQgvuBNupEeJdjjr3a-t4srHyZcE/view
 
 - (GitHub)
 https://github.com/levelhoon/bgfx-template-for-new-project
-
+```cpp
 [How to Use the template]
 1. After unzip the "Library Code" folder to the desired path.
 (It doesn't matter if you don't unpack it in the same folder)
@@ -23,6 +23,6 @@ https://github.com/levelhoon/bgfx-template-for-new-project
   > ![BGFX_CODE](https://media.discordapp.net/attachments/924117396090933269/924396847068483656/unknown.png)
 4. After that, build and run the template project.
 5. You should to change from 64-bit to 32-bit.
-
+```
 # LICENSE
 - https://github.com/bkaradzic/bgfx/blob/master/LICENSE
