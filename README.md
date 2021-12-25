@@ -1,6 +1,7 @@
 # What is it?
-> This is BGFX template for Visual Studio develop.
-
+> This is BGFX template for Visual Studio develop.  
+> I've created a template for Visual Studio in case you need to create a task in a new project.  
+> This is because the old method was considered cumbersome to create or work for a new project.  
 
 BGFX library code:
 - (Google Drive)
