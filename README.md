@@ -1,5 +1,7 @@
 # What is it?
-BGFX template for developing in the Visual Studio environment.
+=======
+## BGFX template for developing in the Visual Studio environment.
+-------------
 
 BGFX library code:
 - (Google Drive)
