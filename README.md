@@ -9,7 +9,7 @@ Template code:
 https://drive.google.com/file/d/1ZA1XSQgvuBNupEeJdjjr3a-t4srHyZcE/view
 
 - (GitHub)
-https://github.com/levelhoon/bgfx-template-for-new-project/upload/main
+https://github.com/levelhoon/bgfx-template-for-new-project
 
 [How to install the template] <- this is easier
 1. After receiving the above compressed files, unzip them.
