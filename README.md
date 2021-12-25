@@ -26,8 +26,8 @@ https://github.com/levelhoon/bgfx-template-for-new-project
 
   > (i did settings path at like a image. Look at reference to the image below.)  
   > ![BGFX_CODE](https://media.discordapp.net/attachments/924117396090933269/924396847068483656/unknown.png)  
+  > You should to change from 64-bit to 32-bit.  
   > [how-to-configure-projects-to-target-platforms](https://docs.microsoft.com/ko-kr/visualstudio/ide/how-to-configure-projects-to-target-platforms?view=vs-2022)  
-  > You should to change from 64-bit to 32-bit.
   > ![ms](https://docs.microsoft.com/ko-kr/visualstudio/ide/media/project-platform-win32.png?view=vs-2022)  
 # LICENSE
 - https://github.com/bkaradzic/bgfx/blob/master/LICENSE
