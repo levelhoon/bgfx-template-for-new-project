@@ -1,5 +1,4 @@
 # What is it?
-=======
 ## BGFX template for developing in the Visual Studio environment.
 -------------
 
