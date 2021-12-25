@@ -3,6 +3,12 @@
 > I've created a template for Visual Studio in case you need to create a task in a new project.  
 >Now you can quickly and easily just copy and paste templates, to create and work BGFX-based  new projects.  
 > This is because the old method was considered cumbersome to create or work for a new project.  
+> 1. The tutorial to build and create a new project is unfriendly.
+> (I had to struggle to understand what cd bgfx is.)
+> 2. If a new project is the purpose, unnecessary example files are created.
+> 3. The build speed is much slower than my template.
+> (I baked the library for build speed.)
+> 4. Beginners may not know how to separate and divide projects and libraries.
 
 BGFX library code:
 - (Google Drive)
