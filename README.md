@@ -1,14 +1,14 @@
 # What is it?
 
 BGFX library code:
-(Google Drive)
+- (Google Drive)
 https://drive.google.com/file/d/1tJHnzcnndoiPVSOBuPz6RvkR_FOYBNi0/view
 
 Template code:
-(Google Drive)
+- (Google Drive)
 https://drive.google.com/file/d/1ZA1XSQgvuBNupEeJdjjr3a-t4srHyZcE/view
 
-(GitHub)
+- (GitHub)
 https://github.com/levelhoon/bgfx-template-for-new-project/upload/main
 
 [How to install the template] <- this is easier
